@@ -44,5 +44,17 @@ In the same time you can have a portable Desktop Computer on your wrist.
 ###Python 3
 With Python 3 you can enjoy the simplicity to programming your own personalized monitoring smart watch.
 
+##I am working on
+I start this project with this:
+Hardware
+-Raspberry Pi Zero W (https://www.raspberrypi.org)
+-Waveshare 2.13 inch e-paper HAT (https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT)
+Software
+-Raspberry Pi OS (https://www.raspberrypi.org/software/) 32 bit version
+-Python lib (https://github.com/waveshare/e-Paper)
+
+##Raspberry Pi OS
+I am connecting with my RPi by ssh. I disabled the GUI to start at the startup.
+
 
 Made with LOVE by a Global Citizen
