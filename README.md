@@ -1,4 +1,4 @@
-# DataCenter 0 - The Smart Watch
+# DataCenter Zero - The Smart Watch
 
 ## The Idea
 This project started to build my own smart watch, why? Because I am tired to have objects builded for the mass, build with out thinking on reusability and always builded on closed source.
@@ -59,6 +59,8 @@ I am connecting with my RPi by ssh. I disabled the GUI to start at the startup.
 ## Files
 ### epaper2in13.drawio
 Design of the epaper view. Write with draw.io
+
+
 
 
 
